@@ -281,3 +281,9 @@ input.sheet-CorC2:checked ~ h4.sheet-CorC2
 {
     display: none;
 }
+
+u {
+    text-decoration: underline;
+}
+
+h6,p{margin:0;padding:0}
